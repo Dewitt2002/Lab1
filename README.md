@@ -14,9 +14,9 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
 | help    | man         | List all the avaliable commands and what they do |
-| Get-Location | pwd    |        |
+| Get-Location | pwd    | Shows you which folder you are located in when preforming that task |
 | Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
+| mkdir   | mkdir       | Makes a new folder |
 | Set-Location | cd     |        |
 | New-Item | touch      |        |
 | Move-Item | mv        |        |
