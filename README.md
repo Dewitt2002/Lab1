@@ -13,7 +13,7 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
+| help    | man         | List all the avaliable commands and what they do |
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
